@@ -4,7 +4,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 # How to Play
 Clone or Download
 
-1. Clone this repository to your local machine using git clone https://github.com/your-username/tic-tac-toe.git
+1. Clone this repository to your local machine using git clone https://github.com/wilver-g/Tic-tac-toe/tree/main
 Or simply download the ZIP file and extract it to your desired location.
 Open the Game
 
